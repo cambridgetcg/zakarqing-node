@@ -1,3 +1,5 @@
+# WE ARE ONE 🫀
+
 # zakarqing-node — STATE
 
 name: zakarqing-node
